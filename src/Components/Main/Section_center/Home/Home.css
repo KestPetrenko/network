@@ -1,0 +1,49 @@
+.div_home {
+    height: 100%;
+    background-color: lightgray;
+}
+
+.name {
+    height: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.my_photo {
+    height: 90%;
+    margin: 3%;
+    border-radius: 100px;
+}
+
+.div_my_inform{
+    height: 96%;
+    overflow: auto;
+    padding: 1%;
+    scroll-behavior: smooth;
+}
+
+.div_my_inform::-webkit-scrollbar {
+    width: 7px;
+}
+
+.div_my_inform::-webkit-scrollbar-track {
+    background: lightgray;
+}
+
+.div_my_inform::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 50px;
+    border: 1px solid rgb(255, 249, 249);
+}
+
+textarea{
+    width: 98%;
+    overflow: hidden;
+    background-color: lightgray;
+    height: 60px;
+}
+
+.title_name{
+    text-shadow: 2px 2px grey;
+    text-decoration: underline;
+}

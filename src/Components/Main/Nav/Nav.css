@@ -1,0 +1,21 @@
+.div_Nav{
+    width: 20%;
+    background-color: lightgray;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: 24px;
+    border: 1px solid black;
+}
+
+.div_Nav a{
+    color: black;
+    padding: 2%;
+    margin-top: 1%;
+}
+
+.div_Nav a:hover{
+    text-shadow: 1px 2px grey;
+}
