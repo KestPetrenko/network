@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Home.css";
-import photo from "./img/photo.jpg"
+
+import photo from "./img/photo.jpg";
 
 const Home = () => {
     return (
@@ -8,7 +9,7 @@ const Home = () => {
             <div className="div_my_inform">
                 <div className="name">
                     <img src={photo} alt="you" className="my_photo"/>
-                    <h1 className="title_name">Petrenko Konstantin</h1>
+                    <h1 className="title_name">Konstantin Petrenko</h1>
                 </div>
                 <h2>Информация</h2>
                 <p>

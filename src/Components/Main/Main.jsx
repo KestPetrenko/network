@@ -2,7 +2,6 @@ import React from 'react';
 import "./Main.css";
 import Nav from "./Nav/Nav";
 import Section_center from "./Section_center/Section_center";
-import Section_right from "./Section_right/Section_right";
 import {Route, Routes} from "react-router-dom";
 import Massage from "./Section_center/Massage/Massage";
 import Home from "./Section_center/Home/Home";
@@ -25,7 +24,6 @@ const Main = () => {
                     <Route path='/audio' element={<Audio/>}/>
                 </Routes>
             </Section_center>
-            <Section_right/>
         </div>
     )
 }

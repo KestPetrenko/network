@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className="header" style={{ backgroundImage: `url(${background})` }}>
             <img src={photo} alt="you" className="photo"/>
-            <p>Title</p>
+            <p className="title_network">vPrivete</p>
         </div>
     )
 }

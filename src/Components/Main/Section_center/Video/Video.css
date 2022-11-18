@@ -1,4 +1,39 @@
 .div_video{
-    background: green;
     height: 100%;
+    background-color: lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2%;
+    box-sizing: border-box;
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+
+.div_video::-webkit-scrollbar {
+    width: 7px;
+}
+
+.div_video::-webkit-scrollbar-track {
+    background: lightgray;
+}
+
+.div_video::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 50px;
+    border: 1px solid rgb(255, 249, 249);
+}
+
+.video_iframe{
+    border-radius: 10px;
+    width: 99%;
+    width: 45%;
+    border: 1px solid white;
+    margin: 2%;
+}
+
+.html5-video-player a {
+    color: red !important;
+    text-decoration: underline !important;
 }
