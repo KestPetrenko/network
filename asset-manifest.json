@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/network/static/css/main.57bc68b2.css",
-    "main.js": "/network/static/js/main.f9ef9449.js",
+    "main.css": "/network/static/css/main.ebb54ae4.css",
+    "main.js": "/network/static/js/main.34d624ee.js",
+    "static/media/08. Кест - Не уснуть.mp3": "/network/static/media/08. Кест - Не уснуть.45d672e3f81b99f8f708.mp3",
+    "static/media/05. Кест - Как нелегко идти.mp3": "/network/static/media/05. Кест - Как нелегко идти.4fa88b27a8266d1477fc.mp3",
+    "static/media/02. Кест & Олег Безъязыков - Не Из Золота.mp3": "/network/static/media/02. Кест & Олег Безъязыков - Не Из Золота.854c6a029745075ce0bc.mp3",
+    "static/media/04. Кест - Бегут года.mp3": "/network/static/media/04. Кест - Бегут года.e90e5759f59e8311146c.mp3",
+    "static/media/11. Кест - Я по жизни поэт.mp3": "/network/static/media/11. Кест - Я по жизни поэт.a70000f263f9e933ea67.mp3",
+    "static/media/09. Кест, Сергей Чуйко - Мани-лавандосы.mp3": "/network/static/media/09. Кест, Сергей Чуйко - Мани-лавандосы.e056c2a228e1f42dd87b.mp3",
+    "static/media/03. Кест,Алена Дождь - Остров Вечной Весны.mp3": "/network/static/media/03. Кест,Алена Дождь - Остров Вечной Весны.44b2f30f2f1f72981e5c.mp3",
+    "static/media/06. Кест,Сергей Чуйко - Криминал.mp3": "/network/static/media/06. Кест,Сергей Чуйко - Криминал.46ac6af512c7af6dc9dc.mp3",
+    "static/media/01. Кест - Быть с тобой.mp3": "/network/static/media/01. Кест - Быть с тобой.bc0d9a818e2f370f4184.mp3",
+    "static/media/07. Кест - Не губите.mp3": "/network/static/media/07. Кест - Не губите.024998a3a25b3bbf5601.mp3",
+    "static/media/10. Кест, Сергей Чуйко - Девчонки.mp3": "/network/static/media/10. Кест, Сергей Чуйко - Девчонки.b68d71285bff9733a34c.mp3",
     "static/media/fone.jpg": "/network/static/media/fone.94aa56eeb615861996e0.jpg",
     "static/media/photo.jpg": "/network/static/media/photo.accf4fa5319163f3b4a9.jpg",
     "static/media/photo.png": "/network/static/media/photo.6589a7968eacbed910e5.png",
     "index.html": "/network/index.html",
-    "main.57bc68b2.css.map": "/network/static/css/main.57bc68b2.css.map",
-    "main.f9ef9449.js.map": "/network/static/js/main.f9ef9449.js.map"
+    "main.ebb54ae4.css.map": "/network/static/css/main.ebb54ae4.css.map",
+    "main.34d624ee.js.map": "/network/static/js/main.34d624ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.57bc68b2.css",
-    "static/js/main.f9ef9449.js"
+    "static/css/main.ebb54ae4.css",
+    "static/js/main.34d624ee.js"
   ]
 }
