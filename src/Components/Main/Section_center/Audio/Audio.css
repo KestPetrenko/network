@@ -1,5 +1,40 @@
-.div_audio{
-    background: yellow;
+.container_audio{
+    background: lightgrey;
     height: 100%;
     border-radius: 10px;
+    padding: 2%;
+    box-sizing: border-box;
+    overflow: auto;
+    scroll-behavior: smooth;
 }
+
+.container_audio::-webkit-scrollbar {
+    width: 7px;
+}
+
+.container_audio::-webkit-scrollbar-track {
+    background: lightgray;
+}
+
+.container_audio::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 50px;
+    border: 1px solid rgb(255, 249, 249);
+}
+
+.music1{
+    width: 80%;
+}
+
+.container_audio p{
+    font-size: 24px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
+
