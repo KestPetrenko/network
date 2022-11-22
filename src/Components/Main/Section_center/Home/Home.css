@@ -1,7 +1,5 @@
 .div_home {
     height: 100%;
-    background-color: lightgray;
-    border-radius: 10px;
 }
 
 .div_my_inform{
@@ -23,4 +21,28 @@
     background-color: black;
     border-radius: 50px;
     border: 1px solid rgb(255, 249, 249);
+}
+
+.my_photo {
+    height: 150px;
+    width: 150px;
+    margin: 1%;
+    border-radius: 64%;
+}
+
+.my_name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.my_title_name{
+    text-shadow: 2px 2px grey;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    border-bottom: 2px solid black;
+    width: 101%;
+    text-align: center;
 }

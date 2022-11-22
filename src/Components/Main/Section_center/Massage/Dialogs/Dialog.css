@@ -1,0 +1,32 @@
+.div_dialog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    height: 100px;
+    padding: 5px;
+}
+.div_dialog h2{
+    text-decoration: none;
+    width: 20%;
+    margin-left: 15px;
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+}
+
+.div_dialog a{
+    width: 80%;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 300;
+    overflow: hidden;
+    text-decoration: none;
+    height: 63%;
+}
+
+.div_dialog a:hover{
+    cursor: pointer;
+    color: #810e05;
+}
+

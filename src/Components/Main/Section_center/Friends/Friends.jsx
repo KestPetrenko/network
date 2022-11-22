@@ -1,23 +1,15 @@
 import React from 'react';
 import "./Friends.css";
-import Name_Friend from "../Title/Name_Friend";
+import {NavLink} from "react-router-dom";
 
-const Friends = () => {
+const Friends = (props) => {
+    let path = '/friends/' + props.name + props.lastname;
     return (
-        <div className="div_friends">
-            <div className="div_friends_inform">
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
-                <Name_Friend/>
+        <div>
+            <div className="friend">
+                <img src={props.photo} className="photo_friend"/>
+                <NavLink className="title_name" to={path}>{props.name} {props.lastname}</NavLink>
+                <button className="button_follow">Follow</button>
             </div>
         </div>
     )

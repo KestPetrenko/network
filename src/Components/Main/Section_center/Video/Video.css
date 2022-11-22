@@ -1,7 +1,5 @@
 .div_video{
     height: 100%;
-    background-color: lightgray;
-    border-radius: 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
