@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/network/static/css/main.ebb54ae4.css",
-    "main.js": "/network/static/js/main.34d624ee.js",
+    "main.css": "/network/static/css/main.147c75d1.css",
+    "main.js": "/network/static/js/main.909054e7.js",
     "static/media/08. Кест - Не уснуть.mp3": "/network/static/media/08. Кест - Не уснуть.45d672e3f81b99f8f708.mp3",
     "static/media/05. Кест - Как нелегко идти.mp3": "/network/static/media/05. Кест - Как нелегко идти.4fa88b27a8266d1477fc.mp3",
     "static/media/02. Кест & Олег Безъязыков - Не Из Золота.mp3": "/network/static/media/02. Кест & Олег Безъязыков - Не Из Золота.854c6a029745075ce0bc.mp3",
@@ -13,15 +13,25 @@
     "static/media/01. Кест - Быть с тобой.mp3": "/network/static/media/01. Кест - Быть с тобой.bc0d9a818e2f370f4184.mp3",
     "static/media/07. Кест - Не губите.mp3": "/network/static/media/07. Кест - Не губите.024998a3a25b3bbf5601.mp3",
     "static/media/10. Кест, Сергей Чуйко - Девчонки.mp3": "/network/static/media/10. Кест, Сергей Чуйко - Девчонки.b68d71285bff9733a34c.mp3",
-    "static/media/fone.jpg": "/network/static/media/fone.94aa56eeb615861996e0.jpg",
+    "static/media/7.png": "/network/static/media/7.11f12a6bc2b85b43eeb8.png",
+    "static/media/10.png": "/network/static/media/10.952a732bbabba5da39d1.png",
+    "static/media/3.png": "/network/static/media/3.b557ed444da3621d3844.png",
+    "static/media/5.png": "/network/static/media/5.d09b53f18a46c51b7bd7.png",
+    "static/media/8.png": "/network/static/media/8.ff072919053abfeadf9a.png",
+    "static/media/9.png": "/network/static/media/9.0e2ca64ed63f4f073f0c.png",
+    "static/media/1.png": "/network/static/media/1.f66a88b0ed4d27b907ee.png",
+    "static/media/6.png": "/network/static/media/6.5e2128463da84d60b99a.png",
+    "static/media/4.png": "/network/static/media/4.f9555dacba80dba72c51.png",
+    "static/media/2.png": "/network/static/media/2.03fb31c72e7f8b182bd6.png",
     "static/media/photo.jpg": "/network/static/media/photo.accf4fa5319163f3b4a9.jpg",
+    "static/media/fone.jpg": "/network/static/media/fone.70a8152cf5a3e3280971.jpg",
     "static/media/photo.png": "/network/static/media/photo.6589a7968eacbed910e5.png",
     "index.html": "/network/index.html",
-    "main.ebb54ae4.css.map": "/network/static/css/main.ebb54ae4.css.map",
-    "main.34d624ee.js.map": "/network/static/js/main.34d624ee.js.map"
+    "main.147c75d1.css.map": "/network/static/css/main.147c75d1.css.map",
+    "main.909054e7.js.map": "/network/static/js/main.909054e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb54ae4.css",
-    "static/js/main.34d624ee.js"
+    "static/css/main.147c75d1.css",
+    "static/js/main.909054e7.js"
   ]
 }
